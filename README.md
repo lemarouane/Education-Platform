@@ -5,7 +5,7 @@
 
   Eduland is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="      https://lemarouane.github.io/Education-Platform/    "><strong>➥ Live Demo</strong></a>
+  <a href="https://lemarouane.github.io/Education-Platform/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
