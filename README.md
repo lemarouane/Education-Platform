@@ -1,13 +1,4 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduland)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduland?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduland?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/C1fpU1icbLI?style=social)](https://youtu.be/C1fpU1icbLI)
-
-  <br />
-  <br />
+ 
   
   <img src="./readme-images/project-logo.png" />
 
